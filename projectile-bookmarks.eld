@@ -1,0 +1,1 @@
+("c:/Dev/python/CBIR-multiple/" "c:/Dev/unity_projects/RGTI-seminarska-unity/")
